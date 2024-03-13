@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T18:21:18.088Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="WX6-8aKUE3cTQoHquPzD" version="24.0.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-03-13T19:41:04.237Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="knickwHQph2kQTza2fDe" version="24.0.6" type="github" pages="5">
   <diagram name="v1" id="fiNEXvZs4d-5PXdnUEWF">
     <mxGraphModel dx="2074" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,31 +13,31 @@
         <mxCell id="BOJUNeeDzk1GS3KY71nu-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" parent="1" vertex="1">
           <mxGeometry x="990" y="130" width="200" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="BOJUNeeDzk1GS3KY71nu-5" value="search query" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="BOJUNeeDzk1GS3KY71nu-5" value="search query" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="740" y="180" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BOJUNeeDzk1GS3KY71nu-6" value="results&lt;br&gt;(just songs)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="BOJUNeeDzk1GS3KY71nu-6" value="results&lt;br&gt;(just songs)" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="740" y="240" width="160" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="BOJUNeeDzk1GS3KY71nu-7" value="&amp;lt;album&amp;gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="BOJUNeeDzk1GS3KY71nu-7" value="&amp;lt;album&amp;gt;" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1050" y="240" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BOJUNeeDzk1GS3KY71nu-8" value="&amp;lt;title&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="BOJUNeeDzk1GS3KY71nu-8" value="&amp;lt;title&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1060" y="340" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOJUNeeDzk1GS3KY71nu-9" value="&amp;lt;artist&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="BOJUNeeDzk1GS3KY71nu-9" value="&amp;lt;artist&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1060" y="360" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOJUNeeDzk1GS3KY71nu-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="BOJUNeeDzk1GS3KY71nu-11" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1010" y="400" width="160" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="BOJUNeeDzk1GS3KY71nu-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/css-vol-2/24/play-button-o-128.png" parent="1" vertex="1">
+        <mxCell id="BOJUNeeDzk1GS3KY71nu-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/css-vol-2/24/play-button-o-128.png;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1065" y="420" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BOJUNeeDzk1GS3KY71nu-14" value="&amp;lt;duration&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="BOJUNeeDzk1GS3KY71nu-14" value="&amp;lt;duration&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1115" y="410" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOJUNeeDzk1GS3KY71nu-16" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Interface&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="BOJUNeeDzk1GS3KY71nu-16" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Interface&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="640" y="70" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BOJUNeeDzk1GS3KY71nu-17" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;v1: High level components&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
@@ -790,7 +790,7 @@
           <mxGeometry x="1025" y="848.75" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CFsk5c-HHvZb_SgFY8iw-24" value="Streaming" style="rounded=1;whiteSpace=wrap;html=1;" parent="30SXfUUQLx2ITK17CXxl-1" vertex="1">
-          <mxGeometry x="1035" y="851.25" width="140" height="60" as="geometry" />
+          <mxGeometry x="1035" y="860" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CFsk5c-HHvZb_SgFY8iw-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="30SXfUUQLx2ITK17CXxl-1" source="CFsk5c-HHvZb_SgFY8iw-27" target="CFsk5c-HHvZb_SgFY8iw-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
