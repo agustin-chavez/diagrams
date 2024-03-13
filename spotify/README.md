@@ -8,9 +8,7 @@ This document provides a simplified overview of core components and design consi
 
 #### Final Result (v5)
 
-![Spotify Architecture](img/v5.png)
-
-
+<img src="img/v5.png" alt="Spotify Architecture" height="600" style="display: block; margin: 50px auto;">
 
 
 **System Scope:**
@@ -25,7 +23,7 @@ This document provides a simplified overview of core components and design consi
 * **Finding Music:** Users can search for music from a search bar in the app.
 * **Playing Music:** Users can seamlessly play songs with minimal latency.
 
-![ui](img/ui.png)
+<img src="img/ui.png" alt="Basic Spotify UI diagram" height="500" style="display: block; margin: 50px auto;">
 
 **Metrics and Considerations:**
 
